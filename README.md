@@ -1,6 +1,6 @@
 # AtCoder
 
-AtCoder用テンプレート
+AtCoderをJSで解く用テンプレート
 
 ## 実行環境
 
