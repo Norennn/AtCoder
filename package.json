@@ -1,0 +1,20 @@
+{
+  "name": "atcorder",
+  "version": "1.0.0",
+  "description": "AtCorder用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "volta": {
+    "node": "18.16.1"
+  },
+  "dependencies": {
+    "@types/node": "^20.10.6",
+    "ts-node": "^10.9.2",
+    "typescript": "5.1"
+  }
+}
